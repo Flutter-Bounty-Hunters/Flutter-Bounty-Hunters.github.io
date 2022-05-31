@@ -1,3 +1,6 @@
+---
+title: Flutter Bounty Hunters
+---
 # Flutter Bounty Hunters - How We Operate
 The Flutter Bounty Hunters is a remote software development agency that's exclusively focused on building open source Flutter and Dart tools.
 
