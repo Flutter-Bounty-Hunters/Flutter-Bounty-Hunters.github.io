@@ -5,5 +5,5 @@ From time to time the Flutter Bounty Hunters come up with ideas for new projects
 
 Would you like to fund further development on a Proof-of-Concept?
 
-- Checkout [how the Flutter Bounty Hunters work](https://www.notion.so/Welcome-to-the-Flutter-Bounty-Hunters-93561ec98aae4aab9f893d83dc5fad38), then...
+- Checkout [how the Flutter Bounty Hunters work](index), then...
 - Send a direct message to [@FlutterBounties](https://twitter.com/FlutterBounties) on Twitter
