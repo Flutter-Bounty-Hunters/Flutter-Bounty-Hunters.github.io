@@ -1,4 +1,7 @@
-# How Bounty Hunters work
+---
+title: "How Bounty Hunters Work"
+---
+
 The Flutter Bounty Hunters connect experienced developers with corporate clients to produce high quality open source tools for the Flutter and Dart ecosystems.
 
 ## **Bounty Hunters are contractors**

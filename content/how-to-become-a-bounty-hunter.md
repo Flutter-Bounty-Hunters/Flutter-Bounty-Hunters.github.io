@@ -1,4 +1,7 @@
-# How to become a Flutter bounty hunter
+---
+title: "How to become a Flutter Bounty Hunter"
+---
+
 So, you want to become a Flutter Bounty Hunter? Great!
 
 - Please review [Who should become a Flutter Bounty Hunter](who-should-become-a-bounty-hunter), to ensure that you have the appropriate experience.

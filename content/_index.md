@@ -1,3 +1,9 @@
+---
+title: "Policies"
+---
+
+# Flutter Bounty Hunter Policies
+
 The Flutter Bounty Hunters is a remote software development agency that's exclusively focused on building open source Flutter and Dart tools.
 
 ## How we work with clients
@@ -14,4 +20,6 @@ Are you interested in becoming a Flutter Bounty Hunter? You may be interested in
  * [How we work](how-bounty-hunters-work)
  * [Developer rates](bounty-hunter-rates)
  * [How to become a Flutter Bounty Hunter](how-to-become-a-bounty-hunter)
+ * [Adding your existing project to our portfolio](adding-your-project-to-our-portfolio)
+
 

@@ -1,4 +1,7 @@
-# Bounty Hunter expectations
+---
+title: "Bounty Hunter Expectations"
+---
+
 The Flutter Bounty Hunters aim to be as flexible with its team, as possible. The team is remote, allowing developers to work from any location in the world, at times, and in ways that are preferred by the developer. Each Bounty Hunter is invited to work on projects as they become available. Bounty Hunters won't be forced to work on projects that don't interest them.
 
 **With great flexibility comes great responsibility.** Bounty Hunters are expected to conduct themselves in a manner that promotes the success of the team.
