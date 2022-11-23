@@ -1,4 +1,7 @@
-# How to fund a milestone
+---
+title: "How to fund a milestone"
+---
+
 A milestone is an individual funding and development event for the Flutter Bounty Hunters.
 
 The Flutter Bounty Hunters don’t fund individual development tickets, because individual tickets are too small to be worth the coordination with funding companies. Instead, the Flutter Bounty Hunters define broader development goals, called milestones. A milestone might correspond to any number of development tickets.

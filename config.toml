@@ -1,0 +1,63 @@
+baseURL = 'http://policies.flutterbountyhunters.com/'
+languageCode = 'en-us'
+title = 'Policies | Flutter Bounty Hunters'
+theme = 'digitalgarden'
+
+[Params]
+  description = "Policies for working with the Flutter Bounty Hunters."
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'For Clients'
+  params.header = true
+  weight = 2
+[[menu.main]]
+  name = 'Client Rates'
+  url = '/client-rates'
+  weight = 3
+[[menu.main]]
+  name = 'Fund a Milestone'
+  url = '/fund-milestone'
+  weight = 4
+[[menu.main]]
+  name = 'What is a Proof of Concept?'
+  url = '/proof-of-concept'
+  weight = 5
+
+[[menu.main]]
+  name = 'For Bounty Hunters'
+  params.header = true
+  weight = 10
+[[menu.main]]
+  name = 'Who should become a Bounty Hunter?'
+  url = '/who-should-become-a-bounty-hunter'
+  weight = 11
+[[menu.main]]
+  name = 'Bounty Hunter Expectations'
+  url = '/bounty-hunter-expectations'
+  weight = 12
+[[menu.main]]
+  name = 'Bounty Hunter Rates'
+  url = '/bounty-hunter-rates'
+  weight = 13
+[[menu.main]]
+  name = 'How to become a Bounty Hunter'
+  url = '/how-to-become-a-bounty-hunter'
+  weight = 14
+[[menu.main]]
+  name = 'Add existing project to our portfolio'
+  url = '/adding-your-project-to-our-portfolio'
+  weight = 15
+
+[[menu.social]]
+  name = 'Twitter'
+  url = 'https://twitter.com/FlutterBounties'
+  weight = 1
+[[menu.social]]
+  name = 'GitHub'
+  url = 'https://github.com/flutter-bounty-hunters'
+  weight = 1

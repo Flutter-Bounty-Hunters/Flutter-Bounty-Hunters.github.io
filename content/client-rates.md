@@ -1,4 +1,7 @@
-# Client Rates
+---
+title: "Client Rates"
+---
+
 Flutter Bounty Hunters log development hours against specific tickets. Every ticket is categorized by complexity, and hourly rates are determined by those categories.
 
 Clients are charged based on the following rates:

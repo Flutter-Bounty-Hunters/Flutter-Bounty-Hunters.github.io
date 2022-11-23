@@ -1,4 +1,7 @@
-# Who should become a Flutter Bounty Hunter?
+---
+title: "Who should become a Flutter Bounty Hunter?"
+---
+
 The Flutter Bounty Hunters are an elite team of Flutter and Dart developers who are working to build the future of the Flutter and Dart ecosystems. We work on behalf of paying clients, who need infrastructure tools, to ship their products.
 
 A strong candidate for the Flutter Bounty Hunters is **experienced**, **accomplished**, and **committed**.
