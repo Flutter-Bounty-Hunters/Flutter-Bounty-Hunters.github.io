@@ -33,25 +33,29 @@ theme = 'digitalgarden'
   params.header = true
   weight = 10
 [[menu.main]]
+  name = 'How Bounty Hunters work'
+  url = '/how-bounty-hunters-work'
+  weight = 11
+[[menu.main]]
   name = 'Who should become a Bounty Hunter?'
   url = '/who-should-become-a-bounty-hunter'
-  weight = 11
+  weight = 12
 [[menu.main]]
   name = 'Bounty Hunter Expectations'
   url = '/bounty-hunter-expectations'
-  weight = 12
+  weight = 13
 [[menu.main]]
   name = 'Bounty Hunter Rates'
   url = '/bounty-hunter-rates'
-  weight = 13
+  weight = 14
 [[menu.main]]
   name = 'How to become a Bounty Hunter'
   url = '/how-to-become-a-bounty-hunter'
-  weight = 14
+  weight = 15
 [[menu.main]]
   name = 'Add existing project to our portfolio'
   url = '/adding-your-project-to-our-portfolio'
-  weight = 15
+  weight = 16
 
 [[menu.social]]
   name = 'Twitter'

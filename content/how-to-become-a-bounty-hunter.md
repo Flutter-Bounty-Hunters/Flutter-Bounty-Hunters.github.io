@@ -4,9 +4,9 @@ title: "How to become a Flutter Bounty Hunter"
 
 So, you want to become a Flutter Bounty Hunter? Great!
 
-- Please review [Who should become a Flutter Bounty Hunter](who-should-become-a-bounty-hunter), to ensure that you have the appropriate experience.
-- Please review [Bounty Hunter Expectations](bounty-hunter-expectations), to ensure that you're up for the challenge.
-- Please review [How the Flutter Bounty Hunters work](how-bounty-hunters-work), to ensure that you know what you're signing up for.
+- Please review [Who should become a Flutter Bounty Hunter](/who-should-become-a-bounty-hunter), to ensure that you have the appropriate experience.
+- Please review [Bounty Hunter Expectations](/bounty-hunter-expectations), to ensure that you're up for the challenge.
+- Please review [How the Flutter Bounty Hunters work](/how-bounty-hunters-work), to ensure that you know what you're signing up for.
 
 ## **How to join**
 If you're ready to join the Flutter Bounty Hunters, please [send an application](https://docs.google.com/forms/d/e/1FAIpQLSfIU2-qb0qHkGQaKV4zFrBwv8LmqIRGaiC-uS_EgRDa-aZ-2g/viewform?usp=sf_link).
