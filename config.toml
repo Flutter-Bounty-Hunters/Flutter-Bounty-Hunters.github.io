@@ -1,4 +1,4 @@
-baseURL = 'http://policies.flutterbountyhunters.com/'
+baseURL = 'https://policies.flutterbountyhunters.com/'
 languageCode = 'en-us'
 title = 'Policies | Flutter Bounty Hunters'
 theme = 'digitalgarden'
